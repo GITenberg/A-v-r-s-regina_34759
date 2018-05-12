@@ -1,0 +1,28 @@
+_repo: A-v-r-s-regina_34759
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Abonyi, Árpád
+    alias: Abonyi, Arpad
+    birthdate: 1865
+    deathdate: 1918
+    gutenberg_agent_id: '37201'
+    url: http://www.gutenberg.org/2009/agents/37201
+    wikipedia: http://hu.wikipedia.org/wiki/Abonyi_%C3%81rp%C3%A1d
+description: ''
+gutenberg_issued: '2010-12-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34759'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PH'
+title: 'A vörös regina: regény'
+url: http://www.gutenberg.org/ebooks/34759
