@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37201
     wikipedia: http://hu.wikipedia.org/wiki/Abonyi_%C3%81rp%C3%A1d
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34759#A-v-r-s-regina
 gutenberg_issued: '2010-12-27'
 gutenberg_type: Text
 identifiers:
